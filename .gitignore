@@ -192,3 +192,14 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Claude Code files and directories
+CLAUDE.md
+.claude/
+.claude_*
+.anthropic/
+.anthropic_*
+*.claude
+*.anthropic
+claude_*
+anthropic_*
